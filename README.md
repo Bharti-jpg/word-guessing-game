@@ -9,7 +9,8 @@ A beginner-friendly word guessing game created as my first BCA project. It demon
 
 ## Technologies used
 -Programming language- Python
--Editor- VS Code
+
+## Editor- VS Code
 
 ## Learnings
 -Understanding of loops
