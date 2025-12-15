@@ -22,5 +22,6 @@ Bharti
 
 ## Screenshots
 ### Game output
-![output]<img width="758" height="339" alt="output" src="https://github.com/user-attachments/assets/8e7f416d-aac2-4d96-8e2f-3d7353f56c51" />
+<img width="826" height="663" alt="Screenshot 2025-12-15 215700" src="https://github.com/user-attachments/assets/538173d5-645e-470f-a136-7193d023096f" />
+
 
